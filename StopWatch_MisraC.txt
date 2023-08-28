@@ -1,0 +1,35 @@
+"../systick_timer.c", line 26: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../systick_timer.c", line 26: warning #1464-D: (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+"../systick_timer.c", line 26: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../systick_timer.c", line 26: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../systick_timer.c", line 26: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../systick_timer.c", line 26: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../systick_timer.c", line 32: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../systick_timer.c", line 32: warning #1464-D: (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+"../systick_timer.c", line 32: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../systick_timer.c", line 32: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../systick_timer.c", line 32: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../systick_timer.c", line 32: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../systick_timer.c", line 40: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../systick_timer.c", line 40: warning #1464-D: (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+"../systick_timer.c", line 40: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../systick_timer.c", line 40: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../systick_timer.c", line 40: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../systick_timer.c", line 40: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../systick_timer.c", line 40: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../systick_timer.c", line 49: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../systick_timer.c", line 49: warning #1464-D: (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+"../systick_timer.c", line 49: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../systick_timer.c", line 57: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../systick_timer.c", line 57: warning #1464-D: (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+"../systick_timer.c", line 57: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../systick_timer.c", line 57: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../systick_timer.c", line 57: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../systick_timer.c", line 57: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../systick_timer.c", line 57: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../systick_timer.c", line 61: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../systick_timer.c", line 62: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../systick_timer.c", line 62: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../systick_timer.c", line 62: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../systick_timer.c", line 62: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../systick_timer.c", line 62: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
